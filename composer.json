@@ -1,0 +1,10 @@
+{
+  "require" :
+  {
+    "php": ">=7.0.0",
+    "siriusphp/validation": "^2.2"
+  },
+  "autoload": {
+    "classmap": ["lesson-07/classes/"]
+  }
+}
